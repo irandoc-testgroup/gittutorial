@@ -1,4 +1,0 @@
-git clone git@github.com:irandoc-testgroup/gittutorial.git
-git pull
-git init
-git status
